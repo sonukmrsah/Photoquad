@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795865849042",
+    "project_id": "photoquad-6c4c4",
+    "storage_bucket": "photoquad-6c4c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795865849042:android:e5df91edd7de7ceb0a610b",
+        "android_client_info": {
+          "package_name": "com.google.codelabs.mdc.java.shrine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_iIi-AFsK-nkiL3yOYWtx4ZYuz_A5yPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
